@@ -1,0 +1,19 @@
+{
+  "name": "wing-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cdktf/provider-docker": "^10.0.0",
+    "@cdktf/provider-null": "^9.0.0",
+    "@cdktf/provider-random": "^10.0.0",
+    "cdktf": "^0.19.1",
+    "constructs": "^10.3.0"
+  }
+}
